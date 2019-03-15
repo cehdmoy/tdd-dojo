@@ -6,3 +6,5 @@ gradle/
 \.idea/
 
 *.iml
+
+build/
